@@ -1047,6 +1047,7 @@ img {
     }
 
     .connection_window__small {
+        width: 300px;
         gap: 20px;
         flex-wrap: wrap;
         justify-content: center;
